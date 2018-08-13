@@ -1,0 +1,9 @@
+{
+  "name": "bloglite",
+  "version": "0.0.1",
+  "description": "A simple blog starter",
+  "main": "index.js",
+  "repository": "https//github.com/Ayorinde/bloglite",
+  "author": "Ayorinde Kudoro",
+  "license": "MIT"
+}
